@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css2?family=Oxygen&display=swap);
+
+body {
+    color: gray;
+    background-color: #282828;
+    font-family: "Oxygen", sans-serif;
+}
+h1 {
+    text-align: center;
+    margin-top: 5%;
+    text-decoration: none;
+}
+p {
+    text-align: center;
+    font-size: 150%;
+    text-decoration: none;
+}
+.div-btm {
+    position: absolute;
+    width: 400px;
+    bottom: 10px;
+}
+.btn {
+    color: gray;
+    position: absolute;
+    bottom: 2%;
+    right: 12px;
+    font-size: 24px;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
